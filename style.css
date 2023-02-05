@@ -119,3 +119,15 @@ p{
 .opacity-10 {
     opacity: .1;
 }
+
+.card1:hover {
+    box-shadow: 0 8px 16px 0 #272d2e;
+  }
+
+.card2:hover {
+    box-shadow: 0 8px 16px 0 #272d2e;
+}
+
+.card3:hover {
+    box-shadow: 0 8px 16px 0 #272d2e;
+  }
